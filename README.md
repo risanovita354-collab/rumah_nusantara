@@ -1,17 +1,23 @@
-# rumah_nusantara
+# Rumah Nusantara
 
-A new Flutter project.
+Aplikasi edukasi berbasis Flutter yang memperkenalkan keberagaman kuliner Nusantara dari 38 provinsi di Indonesia.
+
+## Teknologi
+- Flutter
+- Dart
+
+## Fitur
+- Pengenalan kuliner dari berbagai provinsi di Indonesia.
+- Informasi makanan tradisional.
+- Panduan resep dan langkah memasak.
+- Tingkat kesulitan memasak.
+- Durasi memasak.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Untuk menjalankan proyek:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
+```
